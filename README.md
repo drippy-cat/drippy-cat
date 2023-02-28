@@ -1,4 +1,4 @@
-<img src='https://github.com/drippy-cat/drippy-cat/blob/main/banner.png' width="50%" alt="notice" align="center" title="notice" ></img>
+<img src='https://github.com/drippy-cat/drippy-cat/blob/main/banner.png' width="100%" alt="notice" align="center" title="notice" ></img>
 ALL REPOSITORIES WILL BE TEMPORARILY UNPUBLISHED
 _______________
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
