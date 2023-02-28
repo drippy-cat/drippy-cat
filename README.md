@@ -1,6 +1,9 @@
-<img src='https://github.com/drippy-cat/drippy-cat/blob/main/banner.png' width="100%" alt="notice" align="center" title="notice" ></img>
-ALL REPOSITORIES WILL BE TEMPORARILY UNPUBLISHED
-_______________
+<h1 align="center"> ⚠️ NOTICE ⚠️ 
+  
+This user is taking a temporary break. They will be back in a week or two. Thanks for understanding!</h1>
+
+<h3 align="center"> ALL REPOSITORIES WILL BE TEMPORARILY UNPUBLISHED</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![DC's GitHub stats](https://github-readme-stats.vercel.app/api?username=drippy-cat)](https://github.com/anuraghazra/github-readme-stats)
