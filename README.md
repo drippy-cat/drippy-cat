@@ -1,7 +1,6 @@
-<img src='images/banner.png' alt="banner"></img>
+<img src='https://github.com/drippy-cat/drippy-cat/blob/main/banner.png' width="50%" alt="notice" title="notice" ></img>
 
 _______________
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![DC's GitHub stats](https://github-readme-stats.vercel.app/api?username=drippy-cat)](https://github.com/anuraghazra/github-readme-stats)
