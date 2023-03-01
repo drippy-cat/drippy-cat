@@ -3,6 +3,17 @@
 This user is taking a temporary break. They will be back in a week or two. Thanks for understanding!</h1>
 
 <h3 align="center"> ALL REPOSITORIES WILL BE TEMPORARILY UNPUBLISHED</h3>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1 align="center"> About me</h1>
+
+<h3 align="left">Name: DC</h3>
+<h3 align="left">Pronouns: they/them</h3>
+<h3 align="left">Location: United States</h3>
+<h3 align="left">Favorite Song: Wait a Minute! - Willow Smith - https://www.youtube.com/watch?v=FcZat6kuIY0</h3>
+
+  
+- 🎮 I'm currently working on my latest game, [Snow Rider 3D](https://github.com/drippy-cat/snowrider3d) 🛷 and other projects!
+- 💬 Connect with me on my [epic discord server](https://discord.gg/xvTyBgn6F2)!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
