@@ -7,8 +7,8 @@ This user is taking a temporary break. They will be back in a week or two. Thank
 <h1 align="center"> About me</h1>
 
 <h3 align="left">Name: Institution</h3>
-<h3 align="left">Pronouns: they/them</h3>
-<h3 align="left">Location: United States</h3>
+<!-- <h3 align="left">Pronouns: they/them</h3> 
+<h3 align="left">Location: United States</h3> -->
 <h3 align="left">Favorite Song: Wait a Minute! - Willow Smith - https://www.youtube.com/watch?v=FcZat6kuIY0</h3>
 
   
