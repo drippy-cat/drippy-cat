@@ -14,6 +14,7 @@ This user is taking a temporary break. They will be back in a week or two. Thank
   
 - 🎮 I'm currently working on my latest game, [Snow Rider 3D](https://github.com/drippy-cat/snowrider3d) 🛷 and other projects!
 - 💬 Connect with me on my [epic discord server](https://discord.gg/xvTyBgn6F2)!
+- [CSIM 8 Organization](https://github.com/CSIM-8-2023)
 
 <h1 align="center"> Embeds</h1>
 
