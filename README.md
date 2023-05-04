@@ -18,7 +18,7 @@ This user is taking a temporary break. They will be back in a week or two. Thank
 
 <h1 align="center"> Embeds</h1>
 
-<a href="https://app.daily.dev/drippy-cat"><img src="https://api.daily.dev/devcards/845716b70bdd43eeb688608f2ea48963.png?r=5lu" width="300" alt="1nstitution's Dev Card"/></a>
+<a href="https://app.daily.dev/drippy-cat"><img src="https://api.daily.dev/devcards/845716b70bdd43eeb688608f2ea48963.png?r=wm7" width="300" alt="1nstitution's Dev Card"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
