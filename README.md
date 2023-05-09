@@ -16,8 +16,20 @@ This user is taking a temporary break. They will be back in a week or two. Thank
 - 💬 Connect with me on my [epic discord server](https://discord.gg/xvTyBgn6F2)!
 - 🏳‍⚧ Support the Trevor Project [here](https://give.thetrevorproject.org/give/407873/#!/donation/checkout)!
 <!-- - [CSIM 8 Organization](https://github.com/CSIM-8-2023) -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=drippy-cat&label=Profile Visitors&color=001eff" alt="drippy-cat" /> 
+  <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
+  <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
+  <img src="https://img.shields.io/badge/Knows-Python-yellow/?logo=Python&logoColor=warning&color=yellow" alt="python">
+  <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=css3&logoColor=blue&color=blue" alt="css">
+  <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
+  <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
+  <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/drippy-cat?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/drippy-cat?color=g&label=User%20Followers&logo=github">
+</p>
 
-<h1 align="center"> Embeds</h1>
+<h1 align="center"> Cards</h1>
 
 <a href="https://app.daily.dev/drippy-cat"><img src="https://api.daily.dev/devcards/845716b70bdd43eeb688608f2ea48963.png?r=wm7" width="300" alt="1nstitution's Dev Card"/></a>
 
