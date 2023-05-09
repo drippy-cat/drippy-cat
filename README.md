@@ -21,6 +21,7 @@ This user is taking a temporary break. They will be back in a week or two. Thank
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-Python-yellow/?logo=Python&logoColor=warning&color=yellow" alt="python">
+  <img src="https://img.shields.io/badge/Knows-Discord.js-7289DA/?logo=Discord&logoColor=warning&color=7289DA" alt="discord.js">
   <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=css3&logoColor=blue&color=blue" alt="css">
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
