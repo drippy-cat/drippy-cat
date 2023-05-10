@@ -1,6 +1,6 @@
 - uses: Platane/snk@v2
   with:
-    drippy-cat: ${{ github.repository_owner }}
+    drippy-cat: ${{ drippy-cat }}
     outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
