@@ -30,6 +30,8 @@ This user is taking a temporary break. They will be back in a week or two. Thank
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/drippy-cat?color=g&label=User%20Followers&logo=github">
 </p>
 
+https://github.com/drippy-cat/drippy-cat/blob/output/github-contribution-grid-snake.svg
+
 <h1 align="center"> Cards</h1>
 
 <a href="https://app.daily.dev/drippy-cat"><img src="https://api.daily.dev/devcards/845716b70bdd43eeb688608f2ea48963.png?r=wm7" width="300" alt="1nstitution's Dev Card"/></a>
