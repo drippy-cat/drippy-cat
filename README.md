@@ -37,7 +37,8 @@ This user is taking a temporary break. They will be back in a week or two. Thank
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/drippy-cat/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/drippy-cat/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/drippy-cat/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=drippy-cat&theme=onedark)](https://github.com/drippy-cat/github-profile-trophy)
+
+[![@drippycat's Holopin board](https://holopin.me/drippycat)](https://holopin.io/@drippycat)
 <!-- Note: some of the README stats don't appear to be working. https://github.com/anuraghazra/github-readme-stats
 Remember to add these back once they are fixed -->
