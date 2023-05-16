@@ -14,7 +14,8 @@ This user is taking a temporary break. They will be back in a week or two. Thank
 - 🎮 I'm currently working on my latest game, [Snow Rider 3D](https://github.com/drippy-cat/snowrider3d) 🛷 and other projects!
 - 💬 Connect with me on my [epic discord server](https://discord.gg/xvTyBgn6F2)!
 - 🏳‍⚧ Support the Trevor Project [here](https://give.thetrevorproject.org/give/407873/#!/donation/checkout)!
-<!-- - [CSIM 8 Organization](https://github.com/CSIM-8-2023) -->
+- ✉ Email me [here](mailto:drippy-cat@programmer.net)!
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=drippy-cat&label=Profile Visitors&color=001eff" alt="drippy-cat" /> 
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
