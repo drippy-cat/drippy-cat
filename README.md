@@ -7,7 +7,7 @@ This user is taking a temporary break. They will be back in a week or two. Thank
 <h1 align="center"> About me</h1>
 
 <h3 align="left">Name: DC</h3>
-<h3 align="left">Favorite Song: Send Me On My Way - Rusted Root</h3>
+<h3 align="left">What I'm listening to: <code>Christmas Kids - ROAR</code></h3>
 
 
   
